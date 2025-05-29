@@ -8,7 +8,7 @@
 		<PackageDescription>NLog-based logger integration for Rebus</PackageDescription>
 		<Copyright>Copyright Rebus FM ApS 2012</Copyright>
 		<PackageTags>rebus nlog logging</PackageTags>
-		<RepositoryUrl>https://github.com/rebus-org/Rebus</RepositoryUrl>
+		<RepositoryUrl>https://github.com/rebus-org/Rebus.NLog</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<RootNamespace>Rebus</RootNamespace>
 		<PackageIcon>little_rebusbus2_copy-500x500.png</PackageIcon>
